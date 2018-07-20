@@ -86,7 +86,7 @@ You can download [Grafana](https://grafana.com/) or [build from source](#build-f
 Dahboards are the pages you design your. I created [dashboard](grafana/Teknopar%20Industry%204.0%20Platform%20Dashboard-1532069817662.json). You can [import](http://docs.grafana.org/reference/export_import/#importing-a-dashboard) the dashboard. Also you need "tpd4sh.png" image in "grafana/public/img" folder and "Linear Gauge" plugin for this dashboard.
 
 ### Plugins
-You can download Grafana [plugins](https://grafana.com/plugins) or you can develop your own plugin. See tutorial.
+You can download Grafana [plugins](https://grafana.com/plugins) or you can develop your own plugin. See [tutorial](Plugin%20Tutorial.md).
 
 ### Build from source
 Download grafana source code and dependencies. See [instructions](http://docs.grafana.org/project/building_from_source/). After you download surce code you are ready to change grafana. 
