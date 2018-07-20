@@ -1,0 +1,21 @@
+{
+    "type": "panel",
+    "name": "Linear Gauge",
+    "id": "afbiyik-linear_gauge-panel",
+  
+    "info": {
+      "description": "Linear gauge panel for grafana",
+      "author": {
+        "name": "Ahmet Furkan Biyik",
+        "url": "https://github.com/AFBiyik"
+      },
+      "keywords": ["linear","gauge", "panel"],
+      "version": "1.0.0",
+      "updated": "2018-07-16"
+    },
+  
+    "dependencies": {
+      "grafanaVersion": "5.x.x",
+      "plugins": [ ]
+    }
+  }
