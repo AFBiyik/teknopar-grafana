@@ -13,7 +13,6 @@
     "data"
   ],
   "author": "Ahmet Furkan Biyik",
-  "license": "ISC",
   "dependencies": {
     "influx": "^5.0.0-alpha.4"
   }
