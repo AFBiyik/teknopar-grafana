@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-influx",
+  "version": "1.0.0",
+  "description": "Write random data to influx database.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "influxdb",
+    "nodejs",
+    "write",
+    "data"
+  ],
+  "author": "Ahmet Furkan Biyik",
+  "license": "ISC",
+  "dependencies": {
+    "influx": "^5.0.0-alpha.4"
+  }
+}
